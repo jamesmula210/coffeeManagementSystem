@@ -1,0 +1,11 @@
+c:\users\james\onedrive\documents\visual studio 2012\Projects\javaShop\javaShop\bin\Debug\javaShop.exe.config
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\bin\Debug\javaShop.exe
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\bin\Debug\javaShop.pdb
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\bin\Debug\Guna.UI2.dll
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.csprojResolveAssemblyReference.cache
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.access.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.Properties.Resources.resources
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.csproj.GenerateResource.Cache
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.exe
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.pdb
+C:\Users\james\OneDrive\Documents\Visual Studio 2012\Projects\javaShop\javaShop\obj\Debug\javaShop.DashBoard.resources
